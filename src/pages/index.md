@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Rise Event's
-image: /img/_-91-99865-66674.jpg
+image: /img/91-99865-66674.png
 heading: Let's Celebrate
 subheading: Let's Celebrate
 mainpitch:
