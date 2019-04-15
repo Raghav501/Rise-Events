@@ -14,9 +14,7 @@ mainpitch:
 
     we implement our ideas and creativity by applying customization's to your
     taste's.
-description: >-
-  We are a team of Event Planners. We do celebrate your happy moments turning
-  int most memorable memories by applying innovative ideas. 
+description: Let's Celebrate
 intro:
   blurbs:
     - image: /img/coffee.png
