@@ -1,21 +1,24 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Rise Event's
+image: /img/_-91-99865-66674.jpg
+heading: Let's Celebrate
+subheading: >-
+  We are a team of Event Planners.We do celebrate your happy moments turning int
+  most memorable memories....
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why Rise Event's
+  description: >-
+    We are a team of Event Planners. We do celebrate your happy moments turning
+    int most memorable memories by applying innovative ideas. 
+
+    we are into Decorations, Birthday Parties, Wedding Ceremony and more...
+
+    we implement our ideas and creativity by applying customization's to your
+    taste's.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We are a team of Event Planners. We do celebrate your happy moments turning
+  int most memorable memories by applying innovative ideas. 
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +49,8 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: |
+    We offer wide varieties of services for your Parties....
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
