@@ -3,9 +3,7 @@ templateKey: index-page
 title: Rise Event's
 image: /img/_-91-99865-66674.jpg
 heading: Let's Celebrate
-subheading: >-
-  We are a team of Event Planners.We do celebrate your happy moments turning int
-  most memorable memories....
+subheading: Let's Celebrate
 mainpitch:
   title: Why Rise Event's
   description: >-
