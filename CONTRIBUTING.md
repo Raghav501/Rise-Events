@@ -18,6 +18,10 @@ $ git clone https://github.com/netlify-templates/gatsby-starter-netlify-cms
 $ yarn 
 ```
 
+### Windows Users
+
+If you're developing on Windows and using Claude Code, you need to have Git Bash installed. See the [Windows Setup Requirements](README.md#windows-setup-requirements) section in the README for detailed instructions on installing and configuring Git Bash.
+
 ## Available scripts
 
 ### `start`

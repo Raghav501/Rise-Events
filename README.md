@@ -62,6 +62,32 @@ $ npm run serve
 Follow the [Netlify CMS Quick Start Guide](https://www.netlifycms.org/docs/quick-start/#authentication) to set up authentication, and hosting.
 
 ## Debugging
+
+### Windows Setup Requirements
+
+#### Git Bash for Claude Code
+If you're using Claude Code on Windows, you need to have Git Bash installed. Claude Code requires a bash environment to function properly on Windows systems.
+
+**Installation:**
+1. Download and install Git for Windows from [https://git-scm.com/downloads/win](https://git-scm.com/downloads/win)
+2. During installation, ensure that Git Bash is included (it's typically installed by default)
+
+**Configuration:**
+If Git Bash is installed but not in your system PATH, you need to set an environment variable pointing to your bash.exe:
+
+```
+CLAUDE_CODE_GIT_BASH_PATH=C:\Program Files\Git\bin\bash.exe
+```
+
+To set this environment variable:
+1. Right-click "This PC" (or "My Computer") and select "Properties", then click "Advanced system settings", OR search for "Environment Variables" in the Start menu
+2. Click "Environment Variables"
+3. Under "User variables" or "System variables", click "New"
+4. Variable name: `CLAUDE_CODE_GIT_BASH_PATH`
+5. Variable value: Path to your bash.exe (typically `C:\Program Files\Git\bin\bash.exe`)
+6. Click OK and restart any open terminals or applications
+
+#### Node-gyp Errors
 Windows users might encounter ```node-gyp``` errors when trying to npm install.
 To resolve, make sure that you have both Python 2.7 and the Visual C++ build environment installed.
 ```
