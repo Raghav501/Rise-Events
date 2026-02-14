@@ -80,7 +80,7 @@ CLAUDE_CODE_GIT_BASH_PATH=C:\Program Files\Git\bin\bash.exe
 ```
 
 To set this environment variable:
-1. Open System Properties (Win + Pause/Break or search "Environment Variables")
+1. Right-click "This PC" (or "My Computer") and select "Properties", then click "Advanced system settings", OR search for "Environment Variables" in the Start menu
 2. Click "Environment Variables"
 3. Under "User variables" or "System variables", click "New"
 4. Variable name: `CLAUDE_CODE_GIT_BASH_PATH`
